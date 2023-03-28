@@ -10,5 +10,5 @@
   </ul>
   
 ## Technologies I use
-[!["websockets"](https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png)]
+<img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websockets" width="128" height="128">
 
