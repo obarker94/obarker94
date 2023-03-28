@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Oliver%20Barker&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Oliver%20Barker&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62)
 
 ### Hi there 👋
 * 👂 My name is ...
