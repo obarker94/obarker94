@@ -10,5 +10,5 @@
   </ul>
 </p>
 # Technologies I use
-[![https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png]()]
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
