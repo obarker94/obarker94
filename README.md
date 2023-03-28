@@ -9,3 +9,6 @@
     <li>📮 You can contact me directly here : <b>me@oliverbarker.io</b>
   </ul>
 </p>
+# Technologies I use
+[![https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png]()]
+
