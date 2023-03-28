@@ -8,8 +8,7 @@
     <li>💬 You can ask me about <b>Scalable Forms</b> and <b>Rust Web Servers</b></li>
     <li>📮 You can contact me directly here : <b>me@oliverbarker.io</b>
   </ul>
-</p>
-##
+</p>\
 # Technologies I use
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
