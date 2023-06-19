@@ -3,7 +3,7 @@
   <ul>
     <li>👨‍🔧 I'm a <b>fullstack developer</b></li>
     <li>📍 Based near <b>Leicester</b></li>
-    <li>🏢 I'm working for <b>Aarsleff Ground Engineering</b></li>
+    <li>🏢 I'm working for <b>Rolec Services</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes</b> and <b>Distributed Systems</b></li>
     <li>💬 You can ask me about <b>Scalable Forms</b> and <b>Rust Web Servers</b></li>
     <li>📮 You can contact me directly here : <b>me@oliverbarker.io</b>
